@@ -9,7 +9,7 @@ public class MainAppServerIntegrador {
 		com = new Comunicacion();
 	}
 	
-	
+	/*otro comentario o cambio*/
 	
 
 }
