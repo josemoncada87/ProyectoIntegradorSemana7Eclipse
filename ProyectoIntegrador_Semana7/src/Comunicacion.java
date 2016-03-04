@@ -6,5 +6,5 @@ public class Comunicacion extends Thread {
 	public void run() {
 		System.out.println("123456");
 	}
-
+// ejemplo de mal uso...
 }
