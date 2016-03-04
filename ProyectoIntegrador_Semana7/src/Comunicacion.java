@@ -2,7 +2,7 @@ import java.io.IOException;
 
 public class Comunicacion extends Thread {
 	
-	
+	// testing
 	@Override
 	public void run() {
 		while(true){
